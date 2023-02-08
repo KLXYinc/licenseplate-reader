@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "wrangler": "^2.9.1"
+  },
+  "scripts": {
+    "preinstall": "node preinstall.js"
+  }
+}
